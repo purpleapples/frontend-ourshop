@@ -1,0 +1,1 @@
+//  secure/private route를 위해 user authentication 체크를 위해 더해지는 component
